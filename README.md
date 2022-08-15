@@ -1,4 +1,5 @@
 [![Download on itch.io](./itch_badge.svg)](https://yuvashankar.itch.io/my-pandemic-brain)
+
 Click on the image above or [here](https://yuvashankar.itch.io/my-pandemic-brain download the game.
 
 # Accomplishments
