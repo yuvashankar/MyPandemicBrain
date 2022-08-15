@@ -1,5 +1,7 @@
-# Accomplishments
+[![Download on itch.io](./itch_badge.svg)](https://yuvashankar.itch.io/my-pandemic-brain)
+Click on the image above or [here](https://yuvashankar.itch.io/my-pandemic-brain download the game.
 
+# Accomplishments
 
 - Created a Cherry Blossom particle effect system using Unreal Engine's Niagara Particle System
 - Leveraged Blender to create a bespoke Cherry Blossom model.
@@ -16,10 +18,7 @@ This game features almost all versions of Unreal Engine's Blueprint communicatio
 - A one-to-all event dispatcher that allows multiple actors to react to a single event
 - A custom event that does a one-to-one communication between the level and actor
 
- 
-
 I worked on the game in my spare time at a slower pace, because I wanted to learn about the game engine and how to correctly build something rather than creating spaghetti code.
-
 
 This game was quite small in scope, press button to perform action, and I had the core functionality put together in about 1.5 weeks. Since I was done a bit earlier, and I conveyed as much information as I could, I decided to add a stretch goal of learning the Niagara Effects System to create the Sakura Cherry Blossom Effect in honor of Nujabes' Japanese origins.
 
